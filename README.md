@@ -44,7 +44,11 @@ Description: Official documentation on Excel functions, formatting, and best pra
 5.Stack Overflow
 Stack Overflow. (n.d.). UiPath Git Integration and Automation Solutions. Available at: https://stackoverflow.com/questions/tagged/uipath [Accessed 29 Sept. 2024].
 Description: Technical Q&A on integrating UiPath with Git, troubleshooting automation issues, and best practices for RPA solutions.
+
 6. https://academy.uipath.com/certification
+
 7. https://academy.uipath.com/courses/introduction-to-rpa-and-automation
+
 8. https://docs.uipath.com/studio/standalone/2024.10/user-guide/ui-automation
+
 9. https://www.uipath.com/learning/video-tutorials/excel-datatables-automation

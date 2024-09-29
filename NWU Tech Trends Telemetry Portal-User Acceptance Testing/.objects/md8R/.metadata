@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome techtrendstelemetryportal.azurewebsites.netcreate-project",
+  "Type": "App",
+  "Id": "md8RRYKqQUOi2vNyTo3Zxg",
+  "Reference": "kmw21MgVa0y6FfCXtrmAhQ/md8RRYKqQUOi2vNyTo3Zxg",
+  "Created": "2024-09-09T05:36:20.4514775Z",
+  "Updated": "2024-09-09T05:36:20.4514775Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

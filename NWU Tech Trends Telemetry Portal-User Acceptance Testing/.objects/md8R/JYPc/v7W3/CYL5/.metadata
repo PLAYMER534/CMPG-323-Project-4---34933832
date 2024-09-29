@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Input 'Project Name'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "CYL5aPAHsEeb358Lu4-9fw",
+  "Reference": "kmw21MgVa0y6FfCXtrmAhQ/CYL5aPAHsEeb358Lu4-9fw",
+  "ParentRef": "kmw21MgVa0y6FfCXtrmAhQ/v7W3ggCclE6Jk37yRx5LxA",
+  "Created": "2024-09-09T05:36:22.5661994Z",
+  "Updated": "2024-09-09T05:36:22.5661994Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
